@@ -65,5 +65,5 @@ function holdClick() {
   PlayerID.classList.add("activePlayer");
 }
 
-rollDiceV.addEventListener("click", rolldice);
 hold.addEventListener("click", holdClick);
+rollDiceV.addEventListener("click", rolldice);
